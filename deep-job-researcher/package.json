@@ -19,7 +19,7 @@
     "clsx": "^2.1.1",
     "formidable": "^3.5.4",
     "lucide-react": "^0.487.0",
-    "motion": "^12.6.3",
+    "motion": "^12.23.12",
     "next": "15.2.4",
     "openai": "^4.96.0",
     "pdf-parse": "^1.1.1",
