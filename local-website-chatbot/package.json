@@ -13,7 +13,7 @@
     "node": ">=18"
   },
   "dependencies": {
-    "@langchain/community": "^0.2.9",
+    "@langchain/community": "^0.3.58",
     "@langchain/weaviate": "^0.0.4",
     "@mendable/firecrawl-js": "^0.0.26",
     "@mlc-ai/web-llm": "^0.2.42",
