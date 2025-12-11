@@ -13,3 +13,4 @@ langchain_openai
 # Web scraping
 firecrawl-py
 aiohttp
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
