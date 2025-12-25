@@ -87,3 +87,13 @@ Enter a company name when prompted to get competitor analysis.
 - Market positioning analysis
 - Feature comparison
 - Strategic insights
+
+## Use Cases
+
+1. **Product Strategy**: Understand the competitive landscape by analyzing competitor features, pricing, and positioning to inform product roadmaps.
+
+2. **Market Entry Analysis**: Research competitors in new markets before expansion to identify opportunities and differentiation strategies.
+
+3. **Sales Enablement**: Create competitive battle cards and comparison materials to help sales teams articulate value against competitors.
+
+4. **Investor Due Diligence**: Compile competitive analysis reports for investors evaluating market opportunities and company positioning.

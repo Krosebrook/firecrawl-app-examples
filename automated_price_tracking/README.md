@@ -10,6 +10,16 @@ A robust price tracking system that monitors product prices across e-commerce we
 - Historical price data storage in PostgreSQL database
 - Interactive price history visualization with Streamlit
 
+## Use Cases
+
+1. **Smart Shopping**: Track prices of wish-list items across multiple retailers and get notified when they drop below your target price, never missing a good deal.
+
+2. **Competitive Pricing Analysis**: Businesses can monitor competitor pricing in real-time to adjust their own pricing strategies and maintain market competitiveness.
+
+3. **Inventory Management**: Retailers can track supplier prices to optimize procurement timing and negotiate better deals when prices are favorable.
+
+4. **Price History Analysis**: Identify seasonal pricing patterns and optimal purchase times for specific product categories by analyzing historical price data.
+
 ## Setup
 
 1. Clone the repository

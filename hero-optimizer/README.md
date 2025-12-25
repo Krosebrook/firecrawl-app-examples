@@ -11,6 +11,16 @@ A powerful web application that analyzes SaaS hero sections and provides actiona
 - **Responsive Design**: Works on all devices
 - **Secure API Key Management**: Firecrawl key can be entered in UI, Claude key requires environment variables
 
+## Use Cases
+
+1. **SaaS Landing Page Optimization**: Analyze your SaaS homepage hero section to identify opportunities for improving conversion rates and messaging clarity.
+
+2. **Competitive Analysis**: Benchmark your hero section against competitors to understand what makes effective hero sections in your industry.
+
+3. **A/B Testing Ideation**: Generate data-driven hypotheses for A/B tests by identifying specific weaknesses and improvement opportunities in your current hero section.
+
+4. **Client Audits**: Agencies and consultants can quickly provide value by auditing client hero sections with AI-powered CRO insights.
+
 ## Technology Stack
 
 - **Next.js**: React framework for server-rendered applications

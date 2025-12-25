@@ -2,6 +2,16 @@
 
 Welcome to the Local Web Chatbot! This is a direct fork of [Jacob Lee' fully local PDF chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) replacing the chat with PDF functionality with chat with website support powered by [Firecrawl](https://www.firecrawl.dev/). It is a simple chatbot that allows you to ask questions about a website by embedding it and running queries against the vector store using a local LLM and embeddings.
 
+## Use Cases
+
+1. **Privacy-Focused Research**: Analyze websites and ask questions about their content without sending data to external APIs, keeping your research private.
+
+2. **Offline Documentation Access**: Download website documentation once and query it offline using local models, perfect for air-gapped or restricted environments.
+
+3. **Cost-Effective Development**: Develop and test AI chatbot features locally without incurring API costs during development cycles.
+
+4. **Educational Tools**: Students and educators can create local AI assistants to help navigate and understand complex educational websites and materials.
+
 ## 🦙 Ollama
 
 You can run more powerful, general models outside the browser using [Ollama's desktop app](https://ollama.ai). Users will need to download and set up then run the following commands to allow the site access to a locally running Mistral instance:

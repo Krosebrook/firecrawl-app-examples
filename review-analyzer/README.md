@@ -35,6 +35,16 @@ The application will be available at `http://localhost:8501`
 - Extracts meaningful pros and cons
 - Presents analysis in a clean, organized format
 
+## Use Cases
+
+1. **Purchase Decision Support**: Quickly analyze hundreds of product reviews to make informed buying decisions without reading every review manually.
+
+2. **Product Research**: Researchers and analysts can gather sentiment data and common feedback themes from large sets of customer reviews.
+
+3. **Competitive Product Analysis**: Businesses can analyze competitor product reviews to identify gaps in the market and improvement opportunities.
+
+4. **E-commerce Optimization**: Online sellers can track and analyze their product reviews to identify common issues and improve product descriptions or features.
+
 ## Environment Variables
 
 - `OPENAI_API_KEY`: Required. Your OpenAI API key for review analysis

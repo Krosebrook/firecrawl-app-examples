@@ -41,6 +41,16 @@ Learn how to set up Trend Finder and start monitoring trends in this video!
 - 💬 Instant Slack or Discord notifications
 - ⏱️ Scheduled monitoring using cron jobs
 
+## Use Cases
+
+1. **Marketing Intelligence**: Track emerging trends in your industry to create timely, relevant content and campaigns that capitalize on current conversations.
+
+2. **Product Launch Detection**: Monitor competitors and industry leaders for new product announcements, enabling rapid competitive response strategies.
+
+3. **Influencer Relationship Management**: Stay informed about what key influencers in your space are discussing to engage with relevant conversations authentically.
+
+4. **Crisis Management**: Detect early signals of potential issues or negative sentiment about your brand or industry for proactive response.
+
 ## Prerequisites
 
 - Node.js (v14 or higher)

@@ -8,6 +8,16 @@ Turn any website into a beautiful image using [Firecrawl](https://www.firecrawl.
 - **Google Gemini-2.5-Flash-Preview** (Released May 20, 2024): AI prompt generation
 - **Google Imagen 4** (Released May 20, 2024): Latest image generation model via Fal.ai
 
+## Use Cases
+
+1. **Social Media Marketing**: Convert blog posts and landing pages into eye-catching social media images for promotional campaigns.
+
+2. **Website Thumbnails**: Automatically generate artistic representations of websites for portfolios, directories, or link previews.
+
+3. **Design Inspiration**: Transform website content into visual concepts that can inspire UI/UX design and branding directions.
+
+4. **Content Visualization**: Create visual summaries of articles or documentation pages for presentations, reports, or educational materials.
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmendableai%2Ffirecrawl%2Ftree%2Fmain%2Fexamples&env=FIRECRAWL_API_KEY,GEMINI_API_KEY,FAL_KEY,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN&envDescription=API%20keys%20required%20to%20run%20this%20application)
 
 ## Setup

@@ -58,3 +58,13 @@ Enter a search query when prompted to generate an interactive mindmap.
 - Interactive HTML visualization
 - Auto-generated hierarchical structure
 - Export to JSON format
+
+## Use Cases
+
+1. **Learning and Study**: Create visual study guides and knowledge maps for complex topics by automatically organizing information hierarchically.
+
+2. **Project Planning**: Generate mind maps for project brainstorming and planning by researching related concepts and organizing them visually.
+
+3. **Knowledge Management**: Build visual knowledge bases that show relationships between concepts in your field or industry.
+
+4. **Content Outlining**: Create structured outlines for articles, courses, or presentations by mapping out key concepts and their relationships.

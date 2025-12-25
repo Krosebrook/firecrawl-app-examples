@@ -63,3 +63,13 @@ Enter an email address when prompted and get company intelligence report.
 ## Get API Keys
 - Firecrawl: https://firecrawl.dev
 - OpenAI: https://platform.openai.com
+
+## Use Cases
+
+1. **Sales Prospecting**: Automatically research companies from email addresses to prepare personalized outreach and understand prospects' business context.
+
+2. **Lead Qualification**: Enrich leads with company intelligence including recent news, funding status, and business activities for better prioritization.
+
+3. **Partnership Research**: Quickly gather comprehensive information about potential partners or vendors from just their email domain.
+
+4. **Investment Screening**: Investors can rapidly assess companies by gathering news, funding history, and business intelligence from email contacts.

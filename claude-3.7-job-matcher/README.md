@@ -10,6 +10,16 @@ An intelligent job matching system that automatically analyzes job postings agai
 - 🔄 Scheduled job checking
 - 📊 Web interface for managing job URLs
 
+## Use Cases
+
+1. **Targeted Job Search**: Focus your job search efforts by only reviewing positions that Claude AI determines are strong matches for your qualifications and career goals.
+
+2. **Time-Efficient Job Hunting**: Reduce hours spent manually browsing job boards by automating the screening process and only seeing relevant opportunities.
+
+3. **Multiple Platform Monitoring**: Track job postings across various company career pages and job boards from a single interface without switching between sites.
+
+4. **Strategic Career Planning**: Use match insights to understand which of your skills are most in-demand and where you might need to upskill for desired positions.
+
 ## Prerequisites
 
 - Python 3.10+
