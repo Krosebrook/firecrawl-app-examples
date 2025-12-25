@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Use Cases
+
+1. **Industry Newsletter Automation**: Automatically curate and distribute daily or weekly newsletters on any topic by deploying AI agents to gather relevant content.
+
+2. **Competitive Intelligence Briefings**: Create automated briefings that track competitor announcements, product launches, and industry developments for business teams.
+
+3. **Research Digest Generation**: Generate academic or technical digests by having agents monitor arxiv, research blogs, and publications in specific fields.
+
+4. **Content Aggregation Service**: Build subscription-based content curation services where agents collect and synthesize information from multiple sources into themed newsletters.
+
 ## Getting Started
 
 First, run the development server:
