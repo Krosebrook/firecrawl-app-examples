@@ -9,6 +9,18 @@ A Streamlit application that uses Firecrawl's deep research capabilities to perf
 - Get comprehensive answers with source citations
 - Customize research parameters like depth, timeout, and URL limits
 
+## Use Cases
+
+1. **Academic Research**: Conduct thorough literature reviews and gather comprehensive information on research topics with automatic source citations.
+
+2. **Market Analysis**: Perform deep competitive analysis and market research by exploring multiple sources and synthesizing findings into actionable insights.
+
+3. **Due Diligence**: Investigate companies, products, or technologies thoroughly before making business decisions or investments.
+
+4. **Content Research**: Gather in-depth background information and multiple perspectives on topics for high-quality content creation and journalism.
+
+## Getting Started
+
 ## Installation
 
 ### Prerequisites

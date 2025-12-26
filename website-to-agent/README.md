@@ -12,6 +12,16 @@ WebToAgent is a Streamlit application that extracts domain knowledge from websit
 - **Interactive chat interface**: Engage with your domain agent through a real-time chat interface
 - **Streaming responses**: Get real-time streaming responses from the agent as it generates them
 
+## Use Cases
+
+1. **Product Documentation Chatbot**: Create AI assistants that can answer questions about your product by training on your documentation site.
+
+2. **Customer Support Automation**: Build specialized support agents trained on your knowledge base, FAQs, and help documentation.
+
+3. **Educational Resources**: Turn educational websites and course materials into interactive tutors that can answer student questions.
+
+4. **Corporate Knowledge Sharing**: Transform internal wikis and documentation into conversational agents for employee onboarding and training.
+
 ## Prerequisites
 
 Before installing WebToAgent, make sure you have:

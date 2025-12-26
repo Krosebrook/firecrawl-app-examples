@@ -58,3 +58,13 @@ Enter a search query when prompted to generate presentation slides.
 - Search-powered content creation
 - Interactive HTML slideshow
 - Export to JSON outline
+
+## Use Cases
+
+1. **Rapid Presentation Creation**: Quickly generate presentation slides for meetings, pitches, or conferences by researching a topic automatically.
+
+2. **Educational Content**: Teachers and trainers can create lesson slides on any subject by leveraging web research to gather current information.
+
+3. **Marketing Decks**: Create pitch decks and marketing presentations with up-to-date industry data and trends compiled from multiple sources.
+
+4. **Conference Talks**: Prepare presentation materials for talks and workshops by automating the research and slide structure creation process.

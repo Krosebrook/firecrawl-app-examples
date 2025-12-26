@@ -9,6 +9,16 @@ A Next.js application that helps job seekers find relevant positions by analyzin
 - **Advanced Filtering**: Filter jobs by work type, location, salary range, and experience level
 - **Match Scoring**: See how well each job matches your profile with detailed explanations
 
+## Use Cases
+
+1. **Comprehensive Job Search**: Upload your resume once and let AI continuously find and rank job opportunities across the web that match your unique qualifications.
+
+2. **Career Pivot Exploration**: Discover opportunities in new industries or roles by identifying positions where your transferable skills are valued.
+
+3. **Skill Gap Identification**: Understand which skills are most requested in your target roles and plan your professional development accordingly.
+
+4. **Remote Work Discovery**: Filter and find remote positions that match your expertise, location preferences, and salary expectations efficiently.
+
 ## Getting Started
 
 First, run the development server:

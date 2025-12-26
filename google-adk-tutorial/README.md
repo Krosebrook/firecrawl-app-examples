@@ -37,6 +37,16 @@ See the [app/README.md](app/README.md) file for detailed instructions on:
 - ✅ **Content Processing**: Handling of different content types (text, images) in responses
 - ✅ **Safety Mechanisms**: Content filtering to prevent harmful requests
 
+## Use Cases
+
+1. **Custom AI Assistant Development**: Build specialized AI assistants that combine multiple capabilities (search, research, content extraction) tailored to specific business needs.
+
+2. **Research and Analysis Tools**: Create tools that can perform deep research across multiple sources, extract specific data, and provide comprehensive analysis with citations.
+
+3. **Content Creation Workflows**: Develop automated systems that gather information, analyze it, and generate various content types including text and images.
+
+4. **Enterprise Knowledge Systems**: Build multi-agent systems that can answer questions using company knowledge bases, web research, and document extraction capabilities.
+
 ## Resources
 
 - [ADK Documentation](https://google.github.io/adk-docs/)

@@ -12,6 +12,16 @@ An intelligent job matching system that automatically analyzes job postings agai
 - 📊 Web interface for managing job sources
 - 🗃️ Persistent storage with Supabase
 
+## Use Cases
+
+1. **Passive Job Seekers**: Automatically monitor multiple job boards and career sites without daily manual checking, receiving notifications only for roles that match your skills and experience.
+
+2. **Career Transition Tracking**: Track job opportunities in new fields or industries while maintaining your current role, getting alerted when positions align with your transferable skills.
+
+3. **Recruiter Portfolio Matching**: Recruiters can use this to match candidate resumes against multiple job postings simultaneously, identifying the best fits for their clients.
+
+4. **Job Market Research**: Understand hiring trends and skill demands in your field by analyzing which types of positions match your profile over time.
+
 ## Prerequisites
 
 - Python 3.10+

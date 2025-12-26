@@ -58,3 +58,13 @@ Enter a search query when prompted to generate a research report.
 - Multi-source data synthesis
 - Export to Markdown and HTML
 - Executive summary generation
+
+## Use Cases
+
+1. **Academic Research**: Generate comprehensive literature reviews and research summaries by automatically gathering and synthesizing information from multiple scholarly sources.
+
+2. **Business Intelligence**: Create market research reports and industry analyses by aggregating data from news sites, company pages, and industry publications.
+
+3. **Investment Research**: Compile due diligence reports on companies or industries by gathering financial data, news, and analyst opinions from various sources.
+
+4. **Content Creation**: Research and compile background information for articles, white papers, or presentations with properly cited sources.

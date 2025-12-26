@@ -10,6 +10,16 @@ Monitor trending GitHub repositories and receive notifications via Slack. This a
 - Receive detailed notifications via Slack webhooks
 - Simple and intuitive UI built with Streamlit
 
+## Use Cases
+
+1. **Developer Learning**: Stay updated on trending open-source projects in your tech stack to learn new patterns, tools, and best practices.
+
+2. **Technology Scouting**: Track emerging tools and libraries in specific programming languages to evaluate potential adoption for your team or projects.
+
+3. **Competitive Intelligence**: Monitor when competitors or industry leaders release open-source projects to understand their technical direction.
+
+4. **Community Engagement**: Discover popular projects early to contribute, build on top of them, or engage with growing developer communities.
+
 ## Demo
 
 ![Open-source Watch Demo](docs/demo.gif)

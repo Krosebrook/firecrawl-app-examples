@@ -11,6 +11,16 @@ This project leverages AI Agents to automate the process of generating search qu
 - Designed for SEO optimization and content strategy
 - Easily extensible and configurable
 
+## Use Cases
+
+1. **Content Strategy Planning**: Generate comprehensive lists of search queries related to your topic to inform content creation and keyword targeting.
+
+2. **SEO Keyword Research**: Automatically discover long-tail keywords and related queries that your target audience might use to find your content.
+
+3. **Competitor Content Gap Analysis**: Identify search queries and topics that competitors may not be covering to find content opportunities.
+
+4. **PPC Campaign Planning**: Generate relevant search terms for Google Ads and other paid search campaigns to maximize ad relevance and quality scores.
+
 ---
 
 ## Installation

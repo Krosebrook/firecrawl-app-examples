@@ -16,6 +16,16 @@ A system for scraping, processing, and managing documentation for RAG (Retrieval
 - **Streamlit Interface**: User-friendly web interface for managing documentation
 - **Configurable Scraping**: Control the number of pages scraped and documentation naming
 
+## Use Cases
+
+1. **Developer Documentation Assistant**: Build a RAG system that answers questions about specific frameworks, libraries, or APIs using their official documentation.
+
+2. **Internal Knowledge Base**: Scrape and organize company documentation, wikis, and internal resources for AI-powered employee assistance systems.
+
+3. **Technical Support Automation**: Create intelligent support bots that can reference product documentation to provide accurate answers to customer queries.
+
+4. **Learning Path Generator**: Extract educational content from multiple documentation sources to create personalized learning paths and study materials.
+
 ## Prerequisites
 
 Before setting up the project, ensure you have:
